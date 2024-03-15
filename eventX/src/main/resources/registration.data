@@ -1,0 +1,2 @@
+{"id":1,"idEvento":1,"idUsuario":3,"participantes":[{"id":3,"name":"Pedro Pereira","email":"pedro@exemple.com.br","city":"Salvador","age":1},{"id":4,"name":"Tito","email":"tito@teste.com","city":"Lauro de Freitas","age":20}],"dataInscricao":"2024-03-05T19:23:55.9287372"}
+{"id":2,"idEvento":2,"idUsuario":4,"participantes":[{"id":4,"name":"Tito","email":"tito@teste.com","city":"Lauro de Freitas","age":20}],"dataInscricao":"2024-03-05T19:23:55.9427498"}
